@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/Zee_Bangla_logo.png" group-title="India",ZEE Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/images%20(7).jpeg" group-title="India",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/Star_Jalsha_logo_2023.png" group-title="India",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/images%20(7).jpeg" group-title="India",COLORS BANGLA HD
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/Star_Jalsha_logo_2023.png" group-title="India",Star Jalsha (BC)
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/images%20(19).jpeg" group-title="India",Enterr10 Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8

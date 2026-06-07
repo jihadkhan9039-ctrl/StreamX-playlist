@@ -82,5 +82,5 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Bangla",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 tvg-name="Asian TV (480p)" group-title="Bangla",Asian TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/2898914-middle.png" group-title="Bangla",Asian TV
 https://tvsen6.aynaott.com/asiantv/index.m3u8

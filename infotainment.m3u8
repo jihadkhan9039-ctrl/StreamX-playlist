@@ -15,3 +15,5 @@ http://103.175.73.12:8080/live/143/143_0.m3u8
 
 #EXTINF:-1 tvg-name="Motor Vision" group-title="Infotainment",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/2018_Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
+https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8

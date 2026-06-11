@@ -68,3 +68,5 @@ https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png" group-title="Sports",Crazy Ex
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 group-title="Sports",DD Sports 2.0
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8

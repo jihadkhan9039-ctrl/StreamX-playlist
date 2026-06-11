@@ -65,3 +65,13 @@ https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="Ekushey TV (480p)" group-title="Bangla",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/Sangsad_Television_Emblem.svg.png" group-title="Bangla",Sangsad TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/deshi%20tv.jpeg" group-title="Bangla",Deshi TV HD
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/atn%20bangla%20uk.jpg" group-title="Bangla",ATN Bangla UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/ntv.png" group-title="Bangla",NTV UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jihadkhan9039-ctrl/StreamX-playlist/main/logo/Channel_S_Official_LOGO.png" group-title="Bangla",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8

@@ -5,13 +5,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="World Cup 2026",PTV Sports
 https://live6.asimxtech.online/ptv/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png" group-title="World Cup 2026",T Sports (Server 2)
-https://live4.asimxtech.online/tsports2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8rhsojn2np-bZQvoJ4G1d1CesQEZFBTP1Q&s" group-title="World Cup 2026",TNT Sports Premium
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsports-fifa.png" group-title="World Cup 2026",TSports HD
-https://live1.asimxtech.online/tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="World Cup 2026",UNITE8 (1080P New)
-https://live9.asimxtech.online/unite8/unite8.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="World Cup 2026",UNITE8 (1080P Old)
-https://live8.asimxtech.online/unite8/unite8.m3u8
+
